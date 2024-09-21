@@ -337,8 +337,17 @@ ghrazor=true, asakiri=true,
 
 -- 2023/09
 warglet=true,lightcrab=true,lunarthrall_plant=true,hedgehound_bush=true,lunar_grazer=true,powder_monkey=true,lunarthrall_plant_vine_end=true,
-}
 
+-- 2024/03
+fence_junk=true,
+
+-- 2024/06
+daywalker=true,otterden=true,boat_otterden=true,shadowprotector=true,
+
+-- 2024/09
+daywalker2=true,ruinsnightmare=true,
+
+}
 
 
 --No add of health_info
@@ -367,6 +376,9 @@ carrot_seeds=true, evergreen_sparse_tall=true, farmrockflat=true, coontail=true,
 deciduoustree_normal=true, wormlight_light_fx=true, wormlight_plant=true, wormwarning_lvl2=true, green_cap=true, shovel_blueprint=true, refine_blueprint=true, pighouse_blueprint=true, smallhumanmeat_cooked=true, human_eye_bloody=true, human_eye_dried=true, rockyherd=true, scalp=true, bernie_inactive_blueprint=true, human_spine=true, human_skull=true, houndfire=true, deciduoustree_stump=true, blowdart_pipe=true, beebox_blueprint=true, beebox_placer=true, farm_blueprint=true, hud=true, saddle_basic_blueprint=true, brokentool=true, trinket_16=true, stalagmite_tall_low=true, penguinherd=true, multitool_axe_pickaxe_blueprint=true, tornado=true, eyeturret_item_placer=true, lichen=true, pillar_algae=true, 
 purpleamulet_blueprint=true, chesterlight=true, cave_banana_burnt=true, pillar_ruins=true, campfire=true, nightlight=true, hambat=true, meat=true, minifan_blueprint=true, wormhole_limited_1=true, dug_berrybush_placer=true, flower_cave_triple=true, dug_marsh_bush=true, ancient_blueprint=true, slurper_pelt=true, goose_feather=true, armorsnurtleshell=true, spore_small=true, acorn_placer=true, trinket_1=true, bishop_charge=true, deerclopswarning_lvl3=true, butterflymuffin=true, pottedfern_placer=true, ghost_transform_overlay_fx=true, rubble_med=true, statue_transition=true, trinket_19=true, ruinshat_blueprint=true, firestaff=true, spidergland=true, waterballoon_blueprint=true, eyebrellahat=true, waterballoon_splash=true, diviningrod_blueprint=true, spider_web_spit_creep=true, wormwarning_lvl1=true, transistor_blueprint=true, corn_seeds=true, splash=true, 
 trap_blueprint=true, nightlight_placer=true, blueprint=true, compass_blueprint=true, ancient_altar=true, papyrus_blueprint=true, wall_moonrock_item=true, fishingrod=true, meteorwarning=true, nightlight_flame=true, migration_portal=true, marblepillar=true, trap_teeth_maxwell=true, spear=true, campfire_blueprint=true, pumpkin=true, beargerwarning_lvl4=true, resurrectionstatue_placer=true, bushhat=true, beargervest=true, hauntfx=true, backpack_blueprint=true, basalt=true, lavae_tooth=true, abigail_flower=true, trinket_12=true, armordragonfly=true, multitool_axe_pickaxe=true, basalt_pillar=true, campfirefire=true, kabobs=true, spat_splash_fx_med=true, beargerwarning_lvl1=true, dr_warm_loop_1=true, batwing=true, maxwell=true, saddle_basic=true, evergreen_normal=true, nitre=true, researchlab=true, raincoat_blueprint=true, cactus_meat_cooked=true, spore_tall=true, 
-shock_fx=true, researchlab4_placer=true, nightmare_timepiece=true, cane=true, caverain=true, cave_fern=true, attunable_classified=true, trinket_27=true, houndwarning_lvl2=true,boat_pirate=true,punchingbag=true,stageusher=true,	 }
+shock_fx=true, researchlab4_placer=true, nightmare_timepiece=true, cane=true, caverain=true, cave_fern=true, attunable_classified=true, trinket_27=true, houndwarning_lvl2=true,boat_pirate=true,punchingbag=true,stageusher=true,
+punchingbag_shadow=true,
+punchingbag_lunar=true,
+boat_bumper_kelp=true,	 }
 
 

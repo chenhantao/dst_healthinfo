@@ -2,7 +2,7 @@
 name = "Health Info"
 author = "Nubs, star, CHT"
 forumthread = ""
-version = "2.3.03"
+version = "2.3.08"
 local IS_DST = name.utf8len and true or nil
 if IS_DST then
 	version_compatible = "2.2.02"
